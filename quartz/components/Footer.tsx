@@ -24,6 +24,14 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <p></p> 
+        <ul>
+          <li>
+            <a href="#">
+            Scroll to top ↑
+            </a> 
+          </li>
+        </ul>
       </footer>
     )
   }
