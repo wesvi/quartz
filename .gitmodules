@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/wesvi/note.wesvi.com.git
