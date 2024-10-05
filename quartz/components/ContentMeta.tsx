@@ -44,7 +44,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
       segments.push(
         <a
-          href={`https://github.com/wesvi/quartz/commits/master/${fileData.filePath}`}
+          href={`https://github.com/wesvi/quartz/blob/v4/${fileData.filePath}`}
           target="_blank"
         >
           🗓️ History
