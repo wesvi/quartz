@@ -42,6 +42,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(displayedTime)
       }
 
+      segments.push(
+        <a
+          href={`https://github.com/wesvi/quartz/commits/master/${fileData.filePath}`}
+          target="_blank"
+        >
+          🗓️ History
+        </a>,
+      )
+
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)
 
       return (
