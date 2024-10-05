@@ -47,7 +47,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           href={`https://github.com/wesvi/quartz/blob/v4/${fileData.filePath}`}
           target="_blank"
         >
-          🗓️ History
+          🗓️
         </a>,
       )
 
