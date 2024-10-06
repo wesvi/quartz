@@ -18,9 +18,9 @@ description:
 ## 链接的写法
 
 - [[about]]
-- [[abou|关于我]]
+- [[about|关于我]]
 - [[About]]
-- [[Abou|关于我]]
+- [[About|关于我]]
 - [About](about)
 - [关于我](about)
 - [[about#我的成长故事]]
