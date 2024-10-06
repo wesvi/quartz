@@ -27,6 +27,7 @@ description:
 - [我的成长故事](about#我的成长故事)
 - [我是谁](#who-am-i)
 - [[welcome#who-am-i]]
+- [[welcome#Who am i]]
 - [[welcome#who-am-i|Who am I?]]
 - <a href="/about">About</a>
 - <a href="/about#我的成长故事">我的成长故事</a>
