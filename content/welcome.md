@@ -6,7 +6,7 @@ id: home
 layout: page
 tags:
   - evergreen
-title: Welcom
+title: Welcome
 dg-home: true
 dg-publish: true
 permalink: /
